@@ -1,2 +1,2 @@
-# StudyingNodeJS
-Studying NodeJS
+# Repositório de estudo
+
