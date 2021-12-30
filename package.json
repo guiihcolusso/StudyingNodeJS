@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/guiihcolusso/StudyingNodeJS#readme",
   "dependencies": {
+    "chalk": "^5.0.0",
     "minimist": "^1.2.5"
   }
 }
