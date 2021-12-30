@@ -1,0 +1,22 @@
+{
+  "name": "studying",
+  "version": "1.0.0",
+  "description": "Studying NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiihcolusso/StudyingNodeJS.git"
+  },
+  "author": "Guilherme Colusso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guiihcolusso/StudyingNodeJS/issues"
+  },
+  "homepage": "https://github.com/guiihcolusso/StudyingNodeJS#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
